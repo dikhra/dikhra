@@ -31,27 +31,6 @@
 
 <div align="center">
 
-### Stats
-
-<br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dikhra&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikhra&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=e2e8f0&langs_count=6" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=dikhra&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
-
-<br/>
-<br/>
-
-</div>
-
----
-
-<div align="center">
-
 ### Find Me
 
 <br/>
