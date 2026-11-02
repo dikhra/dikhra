@@ -8,12 +8,12 @@
 <rect width="1000" height="260" rx="14" fill="url(#glow)"/>
 <rect x="0.5" y="0.5" width="999" height="259" rx="13.5" fill="none" stroke="#ffffff" stroke-opacity="0.12"/>
 <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
-<text x="56" y="108" font-size="54" font-weight="700" fill="#ffffff">Dimas Rahmahdin</text>
-<text x="58" y="148" font-size="22" fill="#7c9cff" font-weight="600">Full-stack developer</text>
-<text x="58" y="180" font-size="15" fill="#9aa4b2">Production web applications, end to end</text>
-<text x="58" y="206" font-size="15" fill="#9aa4b2">Data model  ·  API  ·  Interface  ·  Deployment</text>
+<text x="56" y="98" font-size="54" font-weight="700" fill="#ffffff">Dimas Rahmahdin</text>
+<text x="58" y="138" font-size="22" fill="#7c9cff" font-weight="600">Full-stack developer</text>
+<text x="58" y="174" font-size="15" fill="#9aa4b2">Production web applications, end to end</text>
+<text x="58" y="198" font-size="15" fill="#9aa4b2">Data model  ·  API  ·  Interface  ·  Deployment</text>
 </g>
-<g transform="translate(58,226)" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa4b2"><circle cx="5" cy="-4" r="3.5" fill="none" stroke="#9aa4b2" stroke-width="1.5"/><text x="16" y="0">Jakarta, Indonesia</text></g>
+<g transform="translate(58,234)" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#9aa4b2"><circle cx="5" cy="-4" r="3.5" fill="none" stroke="#9aa4b2" stroke-width="1.5"/><text x="16" y="0">Jakarta, Indonesia</text></g>
 <g transform="translate(690,40)" fill="none" stroke-linecap="round" stroke-linejoin="round">
 <rect x="0" y="0" width="250" height="180" rx="12" fill="#0b1020" fill-opacity="0.7" stroke="#ffffff" stroke-opacity="0.18"/>
 <circle cx="18" cy="18" r="4.5" fill="#ff5f56"/><circle cx="34" cy="18" r="4.5" fill="#ffbd2e"/><circle cx="50" cy="18" r="4.5" fill="#27c93f"/>
